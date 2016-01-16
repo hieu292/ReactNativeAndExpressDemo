@@ -1,10 +1,10 @@
-<h1> Simple To Do Task App <h1>
+# Simple To Do Task App
 
 In this app, I created a Back-end with ExpressJS (NodeJS), Mongoose (MongoDB) and Socket.IO. In Back-end, I built some APIs (RESTful methods: GET, POST, PUT, DELETE).
 
 In Front-end, I used React Native to create a cross-platform mobile app. It make requests to Back-end and take JSON responses.
 
-**Some Result**
+## Some Result
 
 Create Task:
 
@@ -19,7 +19,7 @@ Delete Task (touch to delete)
 
 
 
-**How to run it**
+## How to run it
 
 After you download it.
 1. In Back-end folder (ExpressServer) you run "npm install". After that, you run "node server.js". (Remember you must run MongoDB in local first).
