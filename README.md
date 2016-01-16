@@ -22,8 +22,9 @@ Delete Task (touch to delete)
 ## How to run it
 
 After you download it.
-1. In Back-end folder (ExpressServer) you run "npm install". After that, you run "node server.js". (Remember you must run MongoDB in local first).
 
-2. In Front-end folder (ReactNativeClient) you also run "npm install". After that, you run "react-native run" and "react-native run-android". Sorry, my machine run on Windows, so I didn't test IOS.
+- In Back-end folder (ExpressServer) you run "npm install". After that, you run "node server.js". (Remember you must run MongoDB in local first).
 
-Ok that it. If you have any trouble, feel free to ask me at hieuwebdeveloper@gmail.com.
+- In Front-end folder (ReactNativeClient) you also run "npm install". After that, you run "react-native run" and "react-native run-android". Sorry, my machine run on Windows, so I didn't test IOS.
+
+Ok that it. If you have any trouble, feel free to ask me at stevehieuwebdeveloper@gmail.com.
